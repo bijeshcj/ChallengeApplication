@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChallengeApplication</string>
+    <string name="select_home_screen">Select a dog breed</string>
+</resources>
